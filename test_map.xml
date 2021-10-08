@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<net>
+    <level type="password"> 
+        <value>1239a</value>
+        <app>Backdoor</app>
+        <dv>16</dv>
+    </level>
+    <level type="file">
+        <value>Financial Data</value>
+        <app>Eye-Dee</app>
+        <dv>18</dv>
+    </level>
+    <level type="blackice">
+        <value>Hellhound</value>
+    </level>
+    <level type="file">
+        <value>Financial Data</value>
+        <app>Eye-Dee</app>
+        <dv>18</dv>
+    </level>
+    <level type="object">
+        <value>Camera</value>
+        <app>Control</app>
+        <dv>17</dv>
+    </level>
+    <level type="blackice">
+        <value>Black Knight</value>
+    </level>
+    <level type="file">
+        <value>Database</value>
+        <app>Eye-Dee</app>
+        <dv>18</dv>
+    </level>
+    <level type="file">
+        <value>Accounting Report</value>
+        <app>Eye-Dee</app>
+        <dv>16</dv>
+    </level>
+</net>
